@@ -5,7 +5,7 @@ estacas_disponiveis = 2
 lenhador = 4
 minerador = 10
 ferreiro = 10
-plantacoes = 7  # nova variável para contar plantações
+plantacoes = 7 
 
 print("Início do dia...")
 time.sleep(1)
